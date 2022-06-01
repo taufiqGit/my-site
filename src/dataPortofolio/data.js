@@ -33,7 +33,7 @@ const DataPortofolio = [
         desc: 'asd asd',
         thumbnail: 'https://res.cloudinary.com/djjavdrak/image/upload/v1652006970/portofolio/thumbnail_kelas_premium_Full-Stack_JavaScript_Developer_2021_buildwith_angga_1_2_1_xdazpc.png',
         tags: ['#Bootstrap', '#Typescript', '#NextJs', '#Responsive'],
-        link_demo: '',
+        link_demo: 'https://storegg-th.vercel.app/',
         link_repo: 'https://github.com/taufiqGit/fe-storegg'
     },
     {
@@ -44,6 +44,15 @@ const DataPortofolio = [
         tags: ['#SCSS', '#Webpack'],
         link_demo: 'https://bookmark-landing-page-taufiq.netlify.app/',
         link_repo: 'https://github.com/taufiqGit/bookmark-landing-page'
+    },
+    {
+        id: 6,
+        title: 'CMS Admin StoreGG',
+        desc: 'ASD asd',
+        thumbnail: 'https://res.cloudinary.com/djjavdrak/image/upload/v1654060890/portofolio/hu_diafrv.png',
+        tags: ['#Bootstrap', '#Express', "Mongoose"],
+        link_demo: 'https://be-storegg.herokuapp.com/',
+        link_repo: 'https://github.com/taufiqGit/be-storegg'
     }
 ]
 
