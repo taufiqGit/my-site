@@ -17,7 +17,7 @@ export default function ItemProject({title, desc, thumbnail, tags, link_demo, li
                         }
                     </div>
                     <h2 className='text-xl sm:text-2xl mt-1.5 sm:mt-3 text-black-ori'>{title}</h2>
-                    <p className='text-gray-3 mt-2 w-full text-sm lg:text-base'>In this project, I work with HTML and CSS to create a responsive page.</p>
+                    <p className='text-gray-3 mt-2 w-full text-sm lg:text-base'>No Description.</p>
                 </figcaption>
                 <div className='w-64 mt-2.5 flex'>
                     <Anchor href={link_demo}>Demo</Anchor>

@@ -1,4 +1,4 @@
-import avatar from '../images/oscar.jpg'
+import avatar from '../images/me.png'
 import mailIcon from '../images/mail.svg'
 import callIcon from '../images/call.svg'
 
@@ -24,8 +24,8 @@ export default function Profile() {
               </div>
             </figcaption>
             <blockquote className='mt-7'>
-                <p className='text-lg font-light leading-6 text-gray-3'>Self-motivated developer, who is willing to learn and create outstanding UI applications, and the build size is tiny.</p>
-                <p className='mt-2 text-lg font-light leading-6 text-gray-3'>Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. It’s easy to customize, customize.</p>            
+                <p className='text-lg font-light leading-6 text-gray-3'>Self-motivated developer, who is willing to learn and create outstanding UI applications, <br/>and the build size is tiny.</p>
+                {/* <p className='mt-2 text-lg font-light leading-6 text-gray-3'>Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. It’s easy to customize, customize.</p>             */}
             </blockquote>
           </div>
         </figure>   

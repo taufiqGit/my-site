@@ -53,6 +53,33 @@ const DataPortofolio = [
         tags: ['#Bootstrap', '#Express', "Mongoose"],
         link_demo: 'https://be-storegg.herokuapp.com/',
         link_repo: 'https://github.com/taufiqGit/be-storegg'
+    },
+    {
+        id: 7,
+        title: 'My Unsplash Gallery',
+        desc: 'ASD asd',
+        thumbnail: 'https://res.cloudinary.com/djjavdrak/image/upload/v1654638199/portofolio/Screenshot_from_2022-06-08_04-38-09_pdzow0.png',
+        tags: ['#ReactJs', '#Express', "Mongoose"],
+        link_demo: 'https://my-unsplash-taufiq.netlify.app/',
+        link_repo: 'https://github.com/taufiqGit/be-storegg'
+    },
+    {
+        id: 8,
+        title: 'Country Quiz App',
+        desc: 'ASD asd',
+        thumbnail: 'https://res.cloudinary.com/djjavdrak/image/upload/v1653522072/portofolio/Screenshot_from_2022-05-26_06-36-57_ytopl6.png',
+        tags: ['#ReactJs', '#Vite', "Redux"],
+        link_demo: 'https://country-quiz-th.vercel.app/',
+        link_repo: 'https://github.com/taufiqGit/country-quiz'
+    },
+    {
+        id: 8,
+        title: 'Shortly Link app',
+        desc: 'ASD asd',
+        thumbnail: 'https://res.cloudinary.com/djjavdrak/image/upload/v1654642409/portofolio/Screenshot_from_2022-06-08_05-51-43_di1cew.png',
+        tags: ['#ReactJs', '#TailwindCSS', "Context"],
+        link_demo: 'https://shortly-react-app.taufiq.vercel.app/',
+        link_repo: 'https://github.com/taufiqGit/Shortly-React-App'
     }
 ]
 
