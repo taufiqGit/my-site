@@ -73,7 +73,7 @@ const DataPortofolio = [
         link_repo: 'https://github.com/taufiqGit/country-quiz'
     },
     {
-        id: 8,
+        id: 9,
         title: 'Shortly Link app',
         desc: 'ASD asd',
         thumbnail: 'https://res.cloudinary.com/djjavdrak/image/upload/v1654642409/portofolio/Screenshot_from_2022-06-08_05-51-43_di1cew.png',
