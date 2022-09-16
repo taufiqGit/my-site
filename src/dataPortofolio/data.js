@@ -80,6 +80,15 @@ const DataPortofolio = [
         tags: ['#ReactJs', '#TailwindCSS', "Context"],
         link_demo: 'https://shortly-react-app.taufiq.vercel.app/',
         link_repo: 'https://github.com/taufiqGit/Shortly-React-App'
+    },
+        {
+        id: 10,
+        title: 'Weather App',
+        desc: 'ASD asd',
+        thumbnail: 'https://res.cloudinary.com/djjavdrak/image/upload/v1663366610/portofolio/Screenshot_from_2022-09-17_05-15-33_vzr9bb.png',
+        tags: ['#ReactJs', '#TailwindCSS', "Redux"],
+        link_demo: 'https://weather-app-th.vercel.app/',
+        link_repo: 'https://github.com/taufiqGit/weather-app'
     }
 ]
 
