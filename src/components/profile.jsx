@@ -1,4 +1,4 @@
-import avatar from "../images/me-2.jpg";
+import avatar from "../images/me.png";
 import mailIcon from "../images/mail.svg";
 import callIcon from "../images/call.svg";
 import githubIcon from "../images/github.png";
