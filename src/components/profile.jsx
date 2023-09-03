@@ -23,8 +23,11 @@ export default function Profile() {
           </div>
           <blockquote className="mt-5 max-w-lg">
             <p className="text-lg font-light leading-6 text-gray-3">
-              Self-motivated developer, who is willing to learn and create
-              outstanding UI applications, and the build size is tiny.
+              I'm Taufiq hidayah, a React Developer that care about quality. I
+              have been doing Front End Development for 1 years ago. I'm
+              specialized in JavaScript and React. Throughout the years I have
+              proficient in lots of Front End technologies such as NextJS,
+              React, Tailwind CSS, JavaScript and TypeScript.
             </p>
           </blockquote>
         </figcaption>
