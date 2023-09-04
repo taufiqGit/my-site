@@ -1,3 +1,5 @@
+import ItemStack from "./molecules/itemStack";
+
 import jsIcon from "../images/js.png";
 import tailwindIcon from "../images/tailwind.png";
 import bstIcon from "../images/bst.png";
@@ -5,8 +7,6 @@ import reactIcon from "../images/react.png";
 import nextIcon from "../images/next.png";
 import reduxIcon from "../images/redux.png";
 import tsIcon from "../images/ts.png";
-
-import ItemStack from "./molecules/itemStack";
 
 export default function Stack() {
   return (
