@@ -1,4 +1,4 @@
-import avatar from "../images/me.png";
+import avatar from "../images/68101704.png";
 import mailIcon from "../images/mail.svg";
 import callIcon from "../images/call.svg";
 import githubIcon from "../images/github.png";
@@ -18,16 +18,16 @@ export default function Profile() {
           <div>
             <h2 className="text-2xl font-semibold text-gray">Taufiq Hidayah</h2>
             <span className="text-lg mt-3 text-gray-3">
-              Front-end developer
+              Fullstack developer
             </span>
           </div>
           <blockquote className="mt-5 max-w-lg">
             <p className="text-lg font-light leading-6 text-gray-3">
-              I'm Taufiq hidayah, a React Developer that care about quality. I
-              have been doing Front End Development for 1 years ago. I'm
-              specialized in JavaScript and React. Throughout the years I have
-              proficient in lots of Front End technologies such as NextJS,
-              React, Tailwind CSS, JavaScript and TypeScript.
+              I'm Taufiq hidayah, a Fullstack Developer that care about quality.
+              I have been doing Web Development for 1.5 years ago. I'm
+              specialized in JavaScript and Python. Throughout the years I have
+              proficient in lots of Fullstack technologies such as NextJS,
+              React, Flask, Adonis and Postgres.
             </p>
           </blockquote>
         </figcaption>
