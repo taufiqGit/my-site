@@ -91,7 +91,7 @@ const DataPortofolio = [
         link_repo: 'https://github.com/taufiqGit/bookmark-landing-page'
     },
     {
-        id: 6,
+        id: 3,
         title: 'CMS Admin StoreGG',
         desc: '',
         thumbnail: 'https://res.cloudinary.com/djjavdrak/image/upload/v1654060890/portofolio/hu_diafrv.png',
