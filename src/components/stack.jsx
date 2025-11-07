@@ -11,7 +11,7 @@ import pyIcon from "../images/py.png";
 import muiIcon from "../images/mui.png";
 import expIcon from "../images/express.webp";
 import flaskIcon from "../images/flask.png";
-import adonisIcon from "../images/adonis.png";
+import golangIcon from "../images/golang.png";
 
 export default function Stack() {
   return (
@@ -21,6 +21,7 @@ export default function Stack() {
         <ItemStack name="Python" icon={pyIcon} />
         <ItemStack name="Typescript" icon={tsIcon} />
         <ItemStack name="Javascript" icon={jsIcon} />
+        <ItemStack name="Golang" icon={golangIcon} />
         <h2 className="mb-4 text-gray font-bold text-lg mt-4">Stack</h2>
         <ItemStack name="Material UI" icon={muiIcon} />
         <ItemStack name="Tailwind" icon={tailwindIcon} />
@@ -30,7 +31,7 @@ export default function Stack() {
         <ItemStack name="Next JS" icon={nextIcon} />
         <ItemStack name="Express JS" icon={expIcon} />
         <ItemStack name="Flask" icon={flaskIcon} />
-        <ItemStack name="Adonis" icon={adonisIcon} />
+        {/* <ItemStack name="Adonis" icon={adonisIcon} /> */}
       </div>
     </section>
   );

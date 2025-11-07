@@ -10,7 +10,7 @@ const DataPortofolio = [
         link_repo: 'https://github.com/taufiqGit/social-media-dashboard'
     },
     {
-        id: 2,
+        id: 1234,
         title: 'Manage Landing Page',
         desc: '',
         thumbnail: 'https://res.cloudinary.com/djjavdrak/image/upload/v1651908979/portofolio/managed_ahj9ud.png',
@@ -19,7 +19,7 @@ const DataPortofolio = [
         link_repo: 'https://github.com/taufiqGit/manage-landing-page'
     },
     {
-        id: 89986,
+        id: 73,
         title: 'Tersistem',
         desc: 'Tersistem is a legislative candidate application / legislative candidate team application which is a digital application resulting from a combined collaboration of several applications.',
         thumbnail: 'https://res.cloudinary.com/djjavdrak/image/upload/v1695904986/ijaijojk_qiboiq.webp',
@@ -28,7 +28,7 @@ const DataPortofolio = [
         link_repo: ''
     },
     {
-        id: 899233,
+        id: 8,
         title: 'Relawan Perubahan',
         desc: 'Change Volunteer Management Application for the 2024 Indonesian presidential election.',
         thumbnail: 'https://res.cloudinary.com/djjavdrak/image/upload/v1695905423/anice_zfrn8y.webp',
@@ -37,16 +37,16 @@ const DataPortofolio = [
         link_repo: ''
     },
     {
-        id: 229233,
+        id: 22,
         title: 'Arita',
         desc: 'Is a company website that operates in the import, distribution and service sectors for valve, fitting, instrumentation and control products.',
         thumbnail: 'https://res.cloudinary.com/djjavdrak/image/upload/v1695906357/Screenshot_2023-09-28_200512_fhyxyv.png',
         tags: ['#Bootstrap', '#CSS', '#Javascript'],
-        link_demo: 'https://play.google.com/store/apps/details?id=id.reper.android&pcampaignid=web_share',
+        link_demo: 'https://www.arita.co.id/',
         link_repo: ''
     },
     {
-        id: 311,
+        id: 2,
         title: 'Gaweyo Admin Dashboard',
         desc: 'Web application for Gaweyo admin and ad management',
         thumbnail: 'https://res.cloudinary.com/djjavdrak/image/upload/v1695908312/Screenshot_2023-09-28_203306-1_dcaz97.png',
@@ -55,7 +55,7 @@ const DataPortofolio = [
         link_repo: ''
     },
     {
-        id: 3,
+        id: 7,
         title: 'Advice generator app',
         desc: '',
         thumbnail: 'https://res.cloudinary.com/djjavdrak/image/upload/v1652006534/portofolio/Screenshot_from_2022-05-08_14-40-20_myhwwy.png',
@@ -64,7 +64,7 @@ const DataPortofolio = [
         link_repo: 'https://github.com/taufiqGit/advice-generators'
     },
     {
-        id: 4,
+        id: 23,
         title: 'StoreGG (TopUp Voucher Game Site)',
         desc: '',
         thumbnail: 'https://res.cloudinary.com/djjavdrak/image/upload/v1652006970/portofolio/thumbnail_kelas_premium_Full-Stack_JavaScript_Developer_2021_buildwith_angga_1_2_1_xdazpc.png',

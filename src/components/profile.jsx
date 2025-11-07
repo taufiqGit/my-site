@@ -24,10 +24,10 @@ export default function Profile() {
           <blockquote className="mt-5 max-w-lg">
             <p className="text-lg font-light leading-6 text-gray-3">
               I'm Taufiq hidayah, a Fullstack Developer that care about quality.
-              I have been doing Web Development for 1.5 years ago. I'm
+              I have been doing Web Development for 2.5 years ago. I'm
               specialized in JavaScript and Python. Throughout the years I have
               proficient in lots of Fullstack technologies such as NextJS,
-              React, Flask, Adonis and Postgres.
+              React, Flask, Go and Postgres.
             </p>
           </blockquote>
         </figcaption>

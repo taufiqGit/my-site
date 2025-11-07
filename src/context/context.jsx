@@ -3,7 +3,7 @@ import DataPortofolio from "../dataPortofolio/data";
 import Reducer from "./reducer";
 
 const INIT_STATE = {
-    portofolio: DataPortofolio,
+    portofolio: DataPortofolio.sort((a, b) => a.id - b.id),
     currentTag: 'All',
     currentSlide: 1,
     showPerSlide: 3,

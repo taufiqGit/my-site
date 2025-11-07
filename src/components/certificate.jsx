@@ -8,7 +8,7 @@ export default function Certificate(params) {
             <div className="h-full w-full bg-white rounded-lg p-4">
                 <h3 className="text-lg font-bold text-gray mb-3">Certificate</h3>
                 <ItemCertificate title="MERN Stack Web Development" desc="Membangun Web TopUp Voucher Game" thumbnail={imgCertificateBwa}/>
-                <ItemCertificate  title="Belejar Dasar Pemrograman Web" desc="Mempelajari Pemrograman web Dasar HTML, CSS & JS" thumbnail={imgCertificateWebDasar}/>
+                {/* <ItemCertificate  title="Belejar Dasar Pemrograman Web" desc="Mempelajari Pemrograman web Dasar HTML, CSS & JS" thumbnail={imgCertificateWebDasar}/> */}
             </div>
         </section>
     )
